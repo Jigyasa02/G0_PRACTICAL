@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="EXP12_HigherOrder">
+    <resource name="FSharpSignatureData.EXP12_HigherOrder" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.EXP12_HigherOrder" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.EXP12_HigherOrder" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.EXP12_HigherOrder" action="remove"></resource>
+    <resource name="FSharpOptimizationData.EXP12_HigherOrder" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.EXP12_HigherOrder" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.EXP12_HigherOrder" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.EXP12_HigherOrder" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.EXP12_HigherOrder" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.EXP12_HigherOrder" action="remove"></resource>
+  </assembly>
+</linker>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kvLkieBg1hk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Desktop\\GO_PRACTICAL\\Exp10_StringProcessing_FSharp\\Exp10_StringProcessing_FSharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\fsharp.core\\10.1.403\\fsharp.core.10.1.403.nupkg.sha512"
+  ],
+  "logs": []
+}

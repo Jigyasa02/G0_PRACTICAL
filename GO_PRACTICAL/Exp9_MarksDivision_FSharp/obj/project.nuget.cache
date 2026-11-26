@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MC2W+Nnb5zs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Desktop\\GO_PRACTICAL\\Exp9_MarksDivision_FSharp\\Exp9_MarksDivision_FSharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\fsharp.core\\10.1.403\\fsharp.core.10.1.403.nupkg.sha512"
+  ],
+  "logs": []
+}

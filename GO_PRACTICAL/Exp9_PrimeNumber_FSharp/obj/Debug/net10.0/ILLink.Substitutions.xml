@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="Exp9_PrimeNumber_FSharp">
+    <resource name="FSharpSignatureData.Exp9_PrimeNumber_FSharp" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.Exp9_PrimeNumber_FSharp" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.Exp9_PrimeNumber_FSharp" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.Exp9_PrimeNumber_FSharp" action="remove"></resource>
+    <resource name="FSharpOptimizationData.Exp9_PrimeNumber_FSharp" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.Exp9_PrimeNumber_FSharp" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.Exp9_PrimeNumber_FSharp" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.Exp9_PrimeNumber_FSharp" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.Exp9_PrimeNumber_FSharp" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.Exp9_PrimeNumber_FSharp" action="remove"></resource>
+  </assembly>
+</linker>

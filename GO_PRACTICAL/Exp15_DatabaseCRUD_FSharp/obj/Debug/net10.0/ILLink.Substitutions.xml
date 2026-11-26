@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="Exp15_DatabaseCRUD_FSharp">
+    <resource name="FSharpSignatureData.Exp15_DatabaseCRUD_FSharp" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.Exp15_DatabaseCRUD_FSharp" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.Exp15_DatabaseCRUD_FSharp" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.Exp15_DatabaseCRUD_FSharp" action="remove"></resource>
+    <resource name="FSharpOptimizationData.Exp15_DatabaseCRUD_FSharp" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.Exp15_DatabaseCRUD_FSharp" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.Exp15_DatabaseCRUD_FSharp" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.Exp15_DatabaseCRUD_FSharp" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.Exp15_DatabaseCRUD_FSharp" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.Exp15_DatabaseCRUD_FSharp" action="remove"></resource>
+  </assembly>
+</linker>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="EXP13_Async">
+    <resource name="FSharpSignatureData.EXP13_Async" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.EXP13_Async" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.EXP13_Async" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.EXP13_Async" action="remove"></resource>
+    <resource name="FSharpOptimizationData.EXP13_Async" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.EXP13_Async" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.EXP13_Async" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.EXP13_Async" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.EXP13_Async" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.EXP13_Async" action="remove"></resource>
+  </assembly>
+</linker>
